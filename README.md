@@ -1,4 +1,10 @@
 ### Hi there 👋
+Welcome to my personal repository
+- 🔭 I’m currently working on my AWS Certifications
+- 🌱 I’m currently learning AWS Security
+- 👯 I’m looking to collaborate on SRE position
+- 📫 How to reach me: (https://www.linkedin.com/in/juransco/)
+- 😄 Pronouns: He/Her
 
 <!--
 **juransco/juransco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
